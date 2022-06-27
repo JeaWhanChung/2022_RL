@@ -251,6 +251,7 @@ Loss를 Wandb에서 제공하는 Running Average를 10으로 설정하였을때 
 ### 1. Breakout based Hyper-parameter Optimization Sweep Report
 
 [https://wandb.ai/jeawhan/RL_1/reports/2022_RL_JeawhanChung--VmlldzoyMjI2MzI0](https://wandb.ai/jeawhan/RL_1/reports/2022_RL_JeawhanChung--VmlldzoyMjI2MzI0)
+https://wandb.ai/jeawhan/RL_1/reports/2022_RL_JeawhanChung--VmlldzoyMjI2MzI0?accessToken=y8ygfbn1xip9p8yszi24wsjht5zcgwqpgsftosjntb55uizuur5nza5eg35jg3dm
 
 ## 2. Breakout Result
 
@@ -265,6 +266,7 @@ b. Loss
 c. Wandb
 
 [https://wandb.ai/jeawhan/RL_1/reports/Breakout-Result--VmlldzoyMjI2NTE2](https://wandb.ai/jeawhan/RL_1/reports/Breakout-Result--VmlldzoyMjI2NTE2)
+https://wandb.ai/jeawhan/RL_1/reports/Breakout-Result--VmlldzoyMjI2NTE2?accessToken=3s2e6stx338noreq1hzhy8ewbt9gh2m5pze6o79cb9dq5cfwhmzjwb10vnbro1t2
 
 ## 3.  Pong Result
 
@@ -279,6 +281,7 @@ b. Loss
 c. Wandb
 
 [https://wandb.ai/jeawhan/RL_1/reports/Pong-Result--VmlldzoyMjI2NTE4](https://wandb.ai/jeawhan/RL_1/reports/Pong-Result--VmlldzoyMjI2NTE4)
+https://wandb.ai/jeawhan/RL_1/reports/Pong-Result--VmlldzoyMjI2NTE4?accessToken=bz3g8obyfcno2ncvf95dh4wukl0b1ipfekqxbd5zkwzgec2ajo7613ecr3jfmh0d
 
 ## 4. Qbert Result
 
@@ -293,6 +296,7 @@ b. Loss
 c. Wandb
 
 [https://wandb.ai/jeawhan/RL_1/reports/Qbert-Result--VmlldzoyMjI2NTIw](https://wandb.ai/jeawhan/RL_1/reports/Qbert-Result--VmlldzoyMjI2NTIw)
+https://wandb.ai/jeawhan/RL_1/reports/Qbert-Result--VmlldzoyMjI2NTIw?accessToken=nwprigrwv8c07hqvtblrwky3ivtv7icw1atm720ilbual7hfxzz7s8ntvvzpy438
 
 ## 5. SpaceInvaders Result
 
@@ -307,6 +311,7 @@ b. Loss
 c. wandb
 
 [https://wandb.ai/jeawhan/RL_1/reports/SpaceInvaders-Result--VmlldzoyMjI2NTIx](https://wandb.ai/jeawhan/RL_1/reports/SpaceInvaders-Result--VmlldzoyMjI2NTIx)
+https://wandb.ai/jeawhan/RL_1/reports/SpaceInvaders-Result--VmlldzoyMjI2NTIx?accessToken=iurdzibj0uoaosw8rplvr337az8xn7m7lknb5jkoeihaz1d6tnmalev1x80kbbrb
 
 ## 6. Assault Result
 
@@ -321,3 +326,4 @@ b. Loss
 c. wandb
 
 [https://wandb.ai/jeawhan/RL_1/reports/Assault-Result--VmlldzoyMjI2NTQ0](https://wandb.ai/jeawhan/RL_1/reports/Assault-Result--VmlldzoyMjI2NTQ0)
+https://wandb.ai/jeawhan/RL_1/reports/Assault-Result--VmlldzoyMjI2NTQ0?accessToken=jvfrb7y9rqjtb6cokj96gh33s5tug8334mfzbnocdr2fmhxju0biwz1uxi1goxw0
